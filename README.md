@@ -1,6 +1,6 @@
 # fastapi_project
 
-Команда для миграции alimbic init migrations 
+Команда для миграции alembic init migrations 
 Там появится папка миграция и файл alembic.ini их надо отредактировать 
 
 после пишем alembic revision --autogenerate -m "Название миграции"
